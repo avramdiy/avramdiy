@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @avramdiy!
+- 👀 I’m interested in algorithms, data engineering, & machine learning!
+- 🌴 I’m seeking collaboration on data projects that progress my experience!
+- 📫 Please contact me through avram.diyaljee@gmail.com!
+- ⚡ Fun fact: I like to produce music and spend time outdoors!
